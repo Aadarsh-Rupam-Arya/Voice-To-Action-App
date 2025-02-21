@@ -79,8 +79,8 @@ Voice-to-Action Android App
   Internet access for Google Meet redirection.
   
   📂 Clone the Repository
-  git clone https://github.com/yourusername/voice-to-action.git
-  cd voice-to-action
+  git clone https://github.com/Aadarsh-Rupam-Arya/Voice-To-Action-App.git
+  cd Voice-To-Action-App
   🚀 Run the App
   Open Android Studio and load the project.
   
